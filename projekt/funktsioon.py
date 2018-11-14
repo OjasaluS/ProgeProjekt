@@ -6,13 +6,15 @@ def algus():
     valik_algus = int(input("Sisestage oma valik: "))
     return valik_algus
 
+def uuesti():
+    print("Kas soovid uuesti mängida?")
+    print("jah või ei")
+    vastus == input("jah/ei:")
+    return vastus
+
 def es_r_1(sisend):
     if sisend == 1:
-        print("Tikud on läbi vettinud toas tunda olevast tugevast niiskusest. Ei lähe põlema.")
-        print("Mida soovid edasi teha?")
-        print("1.) Püüan aegamisi aknani jõuda ja sealt välja vaadata.")
-        print("2.) Koban mööda seinu, äkki leidub kuskil lüliti?")
-        valik_es_r_1 = int(input("Valik: "))
+        return print("Toas oli kahtlast gaasi, long story short, plahvatasid.. You dead")
     if sisend == 2:
         print("Kuna toas on veel hämar siis välja vaadates näed justkui suurt seina, millele on tõmmatud okastraat. Kas su silmad petavad sind või viibid sa mingisuguses vanglataolises hoones? Jätad selle meelde")
         print("Mida soovid edasi teha?")
