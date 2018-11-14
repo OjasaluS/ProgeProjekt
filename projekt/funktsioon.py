@@ -8,7 +8,7 @@ def algus():
 
 def es_r_1(sisend):
     if sisend == 1:
-        return print("you dead")
+        return print("Toas oli kahtlast gaasi, long story short, plahvatasid.. You dead")
     if sisend == 2:
         print("Kuna toas on veel hämar siis välja vaadates näed justkui suurt seina, millele on tõmmatud okastraat. Kas su silmad petavad sind või viibid sa mingisuguses vanglataolises hoones? Jätad selle meelde")
         print("Mida soovid edasi teha?")
