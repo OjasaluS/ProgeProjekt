@@ -21,6 +21,8 @@ def algus():
 def es_r_1(sisend):
     if sisend == 2:
         print("Kuna toas on veel hämar siis välja vaadates näed justkui suurt seina, millele on tõmmatud okastraat. Kas su silmad petavad sind või viibid sa mingisuguses vanglataolises hoones? Jätad selle meelde")
+        global hint1
+        hint1 = True
         print("Mida soovid edasi teha?")
         print("1.) Võtan nüüd tikud ja panen küünla põlema.")
         print("2.) Näen kõrvalseinas lülitit, lähen panen tule põlema.")
@@ -60,7 +62,7 @@ def es_r_2(algne, jätk):
             print('"Mulle öeldi, et sa oled ärkvel. Meeldiv... Näe, isegi lüliti oled üles leidnud" lausub mees madalal häälel.')
             print('"Kas sa tead, kus sa oled?"')
             print("Vastan: ")
-            print('1.) "Pakun, et vanglas," jääb su vastus lühikeseks, kuid konkreetseks')
+            print('1.) "Kes sa oled?" küsid suure enesekindlusega.')
             print('2.) "Mul pole õrna aimugi. Palun, laske mind vabaks. Mul pole midagi väärtuslikku!" halad viimses hädas.')
             valik_es_r_2 = int(input("Valik: "))
     if algne == 3:
@@ -70,10 +72,51 @@ def es_r_2(algne, jätk):
             print('"Mulle öeldi, et sa oled ärkvel. Meeldiv... Näe, isegi lüliti oled üles leidnud" lausub mees madalal häälel.')
             print('"Kas sa tead, kus sa oled?"')
             print("Vastan: ")
-            print('1.) "Pakun, et vanglas," jääb su vastus lühikeseks, kuid konkreetseks')
+            print('1.) "Kes sa oled?" küsid suure enesekindlusega.')
             print('2.) "Mul pole õrna aimugi. Palun, laske mind vabaks. Mul pole midagi väärtuslikku!" halad viimses hädas.')
             valik_es_r_2 = int(input("Valik: "))
     return valik_es_r_2
 
 def es_r_3(sisend):
-    print(sisend)
+    if sisend == 1:
+        if hint1 == True:
+            print('"Tundub, et vahelduseks on keegi targem ka siia sattunud... Tõstke ta ümber!" käsutab mees kedagi, ise samal ajal ümberpöörates ja kongist eemaldudes.')
+            print("Siiski tundus, et mehe hääles oli justkui positiivne toon. Kas ma olin teda üllatanud?")
+            print("Sisse tulevad kaks meest, kes suunduvad sinu poole, et sind kuhugi mujale viia.")
+            print('1.) Hakkan vastu. Püüan lüüa ja vabadusse rabeleda.')
+            print('2.) Lasen end rahulikult kinni võtta. ')
+            valik_es_r_3 = int(input("Valik: "))
+        if hint1 != True:
+            print('"Eriti enesekindel mõni... Tõstke ta ümber!" käsutab mees kedagi, ise samal ajal ümberpöörates ja kongist eemaldudes.')
+            print("Sisse tulevad kaks meest, kes suunduvad sinu poole, et sind kuhugi mujale viia.")
+            print('1.) Hakkan vastu. Püüan lüüa ja vabadusse rabeleda.')
+            print('2.) Lasen end rahulikult kinni võtta.')
+            valik_es_r_3 = int(input("Valik: "))
+    if sisend == 2:
+        print('"Kas sellise siia tõi?" küsib mees kelleltki, kes ukse taga viibib. "Mis ma sellise nõrgukesega peale hakkan?"')
+        print('"Igatahes..." lausub mees ümber pöörates. "Tõstke ümber," jagab ta kellelegi veel viimase käsu enne lahkumist.')
+        print("Sisse tulevad kaks meest, kes suunduvad sinu poole, et sind kuhugi mujale viia.")
+        print('1.) Hakkan vastu. Püüan lüüa ja vabadusse rabeleda.')
+        print('2.) Lasen end rahulikult kinni võtta.')
+        valik_es_r_3 = int(input("Valik: "))
+    return valik_es_r_3
+        
+def es_r_4(sisend):
+    if sisend == 1:
+        print("Lased end rahus kinni võtta. Silmade ette pannakse riie nii, et sa ei näe enam midagi. Tunned järsku veel viimase asjana torget kaelal ja kaotad seejärel teadvuse.")
+        lopp_1 = "rahulik"
+    if sisend == 2:
+        print("Nähes sind rusikaid tõstmas, võtavad valvurid välja oma nuiad ja valmistuvad rüseluseks.")
+        print("Kas soovid jätaka esialgse plaaniga või langetad rusikad ja lased end kinni võtta?")
+        print('1.) Ei anna alla! Võitlen lõpuni!')
+        print('2.) Ei ma saa kahe vastu. Langetan rusikad ja alistun.')
+        valik = int(input("Valik: "))
+        if valik == 2:
+            print("Lased end rahus kinni võtta. Silmade ette pannakse riie nii, et sa ei näe enam midagi. Tunned järsku veel viimase asjana torget kaelal ja kaotad seejärel teadvuse.")
+            lopp_1 = "rahulik"
+        if valik == 1:
+            print("Vehid oma rusikatega kui segane, valvurid ei julge alguses lähedalegi tulla. Tundub, et nad pole sellega väga varem pidanud niimoodi tegelema.")
+            print("Su käitumine 
+            
+            
+        
