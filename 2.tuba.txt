@@ -1,34 +1,41 @@
-2. Istud külmal põrandal ja toibud veidi. Sul tekib palju küsimusi- Mis juhtus? Miks sa külmal pinnal lebad? Kus sa oled? Ere tuli sinu peakohal süüdatakse. Kuuled juttu pealt..
--Noh ja mis me temaga teeme? Täiesti mõttetu katsealuse tõid.
--Ta oli ainuke kelle me kätte saime, teised põgenesid.
+2. Istud kÃ¼lmal pÃµrandal ja toibud veidi. Sul tekib palju kÃ¼simusi- Mis juhtus? Miks sa kÃ¼lmal pinnal lebad? Kus sa oled? Ere tuli sinu peakohal sÃ¼Ã¼datakse. Kuuled juttu pealt..
+-Noh ja mis me temaga teeme? TÃ¤iesti mÃµttetu katsealuse tÃµid.
+-Ta oli ainuke kelle me kÃ¤tte saime, teised pÃµgenesid.
 -Uskumatu, mul pole temaga mitte midagi teha.. Oota, miks tal silmad lahti on? Kui palju sa talle manustasid(not sure if that is a work but ok)?
 
-Kuna hääl kostab teisest toa otsast on sul veidi aega, Mida teed?
+Kuna hÃ¤Ã¤l kostab teisest toa otsast on sul veidi aega, Mida teed?
 
-+ Proovin end ruttu välja saada.(1.1)
-	Tõusid, et lahkuda, kuid olid liiga nõrk. Vajusid samas kokku. Sind tõsteti tagasi samale lauale, kuid seekord seoti sind kinni.
++ Proovin end ruttu vÃ¤lja saada.(1.1)
+	TÃµusid, et lahkuda, kuid olid liiga nÃµrk. Vajusid samas kokku. Sind tÃµsteti tagasi samale lauale, kuid seekord seoti sind kinni.
 
 + Mitte midagi.(1.2)
 	-
 
 
-Tuttav mees ning naine, kelle häält oled kuulnud lähenevad sulle ning vaatavad sind hoolikalt. Jälgivad iga sinu reaktsiooni ja iga sinu kehaosa väga hoolikal. Üks võõrastest on sulle nii lähedal, et sa saaksid panna käe ta taskusse ja varastada ta käärid.
+Tuttav mees ning naine, kelle hÃ¤Ã¤lt oled kuulnud lÃ¤henevad sulle ning vaatavad sind hoolikalt. JÃ¤lgivad iga sinu reaktsiooni ja iga sinu kehaosa vÃ¤ga hoolikal. Ãœks vÃµÃµrastest on sulle nii lÃ¤hedal, et sa saaksid panna kÃ¤e ta taskusse ja varastada ta kÃ¤Ã¤rid. 
 
-1.(1.1) Kahjuks olid enne juba põgenemise tõttu kinni seotud, ning ei saanud kääre kätte. Kuid midagi välja mõelda on juba hilja. Nägid uksest sisse tulemas valvurit. Ta teeb su lahti ning viib taaskord kuhugi mujale. 
+1.(1.1) Kahjuks olid enne juba pÃµgenemise tÃµttu kinni seotud, ning ei saanud kÃ¤Ã¤re kÃ¤tte. Kuid midagi vÃ¤lja mÃµelda on juba hilja. NÃ¤gid uksest sisse tulemas valvurit. Ta teeb su lahti ning viib taaskord kuhugi mujale. 
 
-2.(1.2) Said käärid kätte, mis veel parem, keegi ei märganud sind, nad olid liiga kontsentreeritud millegile muule.
-	Kas ähvardad neid kääridega?
+2.(1.2) Kas teeksid seda?
+	EI-(1.2.0) -
+	JAH -Said kÃ¤Ã¤rid kÃ¤tte, mis veel parem, keegi ei mÃ¤rganud sind, nad olid liiga kontsentreeritud millegile muule.
+	Kas Ã¤hvardad neid kÃ¤Ã¤ridega?
+	
 
-		1. JAH (1.2.1) Ärhvardad neid kääridega. Nii mees kui naine tunduvad väga hirmunud. Nende käed on üleval ja nad kuulavad, mis sul öelda on. Näed, et naine vajutab vaikset häirenuppu. Tead, et sul ei ole võimalik põgeneda ning aega napib, sul on aega küsida üks küsimus.
-			1) Miks ma siin olen? -> 'Sa.. Sa oled eriline, sinus on üks geen, mis...'
+		1. JAH (1.2.1) Ã„rhvardad neid kÃ¤Ã¤ridega. Nii mees kui naine tunduvad vÃ¤ga hirmunud. Nende kÃ¤ed on Ã¼leval ja nad kuulavad, mis sul Ã¶elda on. NÃ¤ed, et naine vajutab vaikset hÃ¤irenuppu. Tead, et sul ei ole vÃµimalik pÃµgeneda ning aega napib, sul on aega kÃ¼sida Ã¼ks kÃ¼simus.
+			1) Miks ma siin olen? -> 'Sa.. Sa oled eriline, sinus on Ã¼ks geen, mis...'
 			2) Kes te olete? -> 'Me.. Me oleme teadlased, soovime teha vaid paar katset teie peal, sest..'
 			3) Mida te just uurisiste? -> 'Me.. Me just uurisime sinu silmi, kuna sul on... '
-		Uksest tormab sisse valvur enne, kui lause sai lõpetatud. Valvur viib su minema. 
+		Uksest tormab sisse valvur enne, kui lause sai lÃµpetatud. Valvur viib su minema. 
 		
 
-		2. EI (1.2.2) - Üks toasviibijatest müksab sind, sinu käärid kukuvad maha. Toasviibijad on hämmingus. Nad ei oska midagi teha ning kutsuvad sulle valvuri järgi. Sind viiakse mujale.
+		2. EI (1.2.2) - Ãœks toasviibijatest mÃ¼ksab sind, sinu kÃ¤Ã¤rid kukuvad maha. Toasviibijad on hÃ¤mmingus. Nad ei oska midagi teha ning kutsuvad sulle valvuri jÃ¤rgi. Sind viiakse mujale.
 
-KÕIK- Teel uude kohta ütleb valvur 'Ma pole iial pidanud mitte kedagi nii karmi valve alla kedagi saatma. Sinu otsused on sind viinud nii kaugele.' Ehk oleks aeg rahuneda?
-2 TOA LÕPP
+1.1, 1.2.1, 1.2.2 - Teel uude kohta Ã¼tleb valvur 'Ma pole iial pidanud mitte kedagi nii karmi valve alla kedagi saatma. Sinu otsused on sind viinud nii kaugele.' Ehk oleks aeg rahuneda? (Sind viiakse edasi kolmandasse tuppa, Extra security)
+
+1.2.0- JÃ¤tad kolmanda toa vahele ja lÃ¤hed otse neljandasse.
+
+
+2 TOA LÃ•PP
 
 
