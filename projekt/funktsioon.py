@@ -102,10 +102,10 @@ def es_r_3(sisend):
     return valik_es_r_3
         
 def es_r_4(sisend):
-    if sisend == 1:
-        print("Lased end rahus kinni võtta. Silmade ette pannakse riie nii, et sa ei näe enam midagi. Tunned järsku veel viimase asjana torget kaelal ja kaotad seejärel teadvuse.")
-        lopp_1 = "rahulik"
     if sisend == 2:
+        print("Lased end rahus kinni võtta. Silmade ette pannakse riie nii, et sa ei näe enam midagi. Tunned järsku veel viimase asjana torget kaelal ja kaotad seejärel teadvuse.")
+        lopp_1 = 3
+    if sisend == 1:
         print("Nähes sind rusikaid tõstmas, võtavad valvurid välja oma nuiad ja valmistuvad rüseluseks.")
         print("Kas soovid jätaka esialgse plaaniga või langetad rusikad ja lased end kinni võtta?")
         print('1.) Ei anna alla! Võitlen lõpuni!')
@@ -113,10 +113,16 @@ def es_r_4(sisend):
         valik = int(input("Valik: "))
         if valik == 2:
             print("Lased end rahus kinni võtta. Silmade ette pannakse riie nii, et sa ei näe enam midagi. Tunned järsku veel viimase asjana torget kaelal ja kaotad seejärel teadvuse.")
-            lopp_1 = "rahulik"
+            lopp_1 = 3
         if valik == 1:
             print("Vehid oma rusikatega kui segane, valvurid ei julge alguses lähedalegi tulla. Tundub, et nad pole sellega väga varem pidanud niimoodi tegelema.")
-            print("Su käitumine 
+            print("Su käitumine on nad segadusse ajanud ja selle asemel, et su löökide eest ära põigata, tabad sa mõlemat. Valvurit vajuvad teadusetult kokku ning sa avastad enda ees vaba ukse ja võimaluse põgeneda.")
+            print("Kuidas toimid?")
+            print('1.) Võtad valvurilt nuia ja liigud ukse poole.')
+            print('2.) Jätad kõik asjad maha, et oleksid kiirem ja kergem.')
+            print('3.) Otsustad mitte põgeneda ja jääd oma saatust ootama voodil istudes.')
+            lopp_1 = int(input("Valik: "))
+            
             
             
         
