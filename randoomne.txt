@@ -11,5 +11,5 @@ kui sul oli näpits:
 print('Välja tulles näed suurt seina okastraadiga, ronid kiirelt ja lõikad traati.')
 print('Naudi vabadust.')
 kui polnud midagi:
-print('Näed enda ees suurt aeda, mis on okastraadiga kaetud. Üritades ronida üle vigastad end ning kukud kõrgelt.')
-print('You died')
+print('Näed enda ees suurt aeda, mis on okastraadiga kaetud. Üritades ronida üle vigastad end korralikult, kuid saad teisele poole.')
+print('Naudi vabadust. Ja otsi palun arstiabi.')
