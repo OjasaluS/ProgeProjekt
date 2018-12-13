@@ -1,0 +1,15 @@
+Õues:
+(Toas olles oli sul võimalik valida üks instrument(nuga(aitab valvurit tappa aga saab ka selleta), näpitsad(alguses ei aita), püss(aitab valvurit tulistada, samas saad ka ilma selleta tapetud)))
+print('Said lõpuks toast välja, väljas on suhteliselt pime.')
+kui sul oli püss:
+print('Tundub, et keegi väljastpoolt kuulis sinu lasku ning sind lasti maha.')
+print('You died')
+kui sul oli nuga:
+print('võitluse käigus vigastasid end, ning sinu kõhul on noahaav, oled jõuetu ning kukkud sealsamas kokku. ')
+print('You died')
+kui sul oli näpits:
+print('Välja tulles näed suurt seina okastraadiga, ronid kiirelt ja lõikad traati.')
+print('Naudi vabadust.')
+kui polnud midagi:
+print('Näed enda ees suurt aeda, mis on okastraadiga kaetud. Üritades ronida üle vigastad end korralikult, kuid saad teisele poole.')
+print('Naudi vabadust. Ja otsi palun arstiabi.')
