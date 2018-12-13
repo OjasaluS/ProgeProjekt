@@ -47,7 +47,7 @@ while True:
         print("-"*97)
         if end_ruum1 == 3:
             end_ruum2 = teise_toa_algus()
-            if end_ruum2 == 3
+            if end_ruum2 == 3:
                 print("Sa tunnetad ära, kuidas valvur on endast väljas ning ei pööra sulle piisavalt tähelepanu. Sinu võimalus tegutseda... Sa tunnetad ära õige hetke ja kogu oma keha massiga tõukad valvuri vastu seina.")
                 print("Mehe pea põrub vastu kivist seina ning ta langeb teadvusetult maha...")
                 valik_ruum3_1 = ruum3_1()
